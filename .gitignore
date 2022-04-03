@@ -1,0 +1,7 @@
+﻿# игнорировать файлы с расширением 
+.idea
+target
+src/main/resources/
+test
+
+
